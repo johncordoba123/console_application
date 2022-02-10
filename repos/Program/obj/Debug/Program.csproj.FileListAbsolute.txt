@@ -1,0 +1,6 @@
+C:\Users\johnc\source\repos\Program\bin\Debug\Program.exe.config
+C:\Users\johnc\source\repos\Program\bin\Debug\Program.exe
+C:\Users\johnc\source\repos\Program\bin\Debug\Program.pdb
+C:\Users\johnc\source\repos\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\johnc\source\repos\Program\obj\Debug\Program.exe
+C:\Users\johnc\source\repos\Program\obj\Debug\Program.pdb
